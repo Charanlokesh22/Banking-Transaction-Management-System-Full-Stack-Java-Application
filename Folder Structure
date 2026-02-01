@@ -1,0 +1,14 @@
+Banking-Transaction-System/
+│
+├── README.md
+├── pom.xml
+└── src/main/java/com/bank
+    ├── BankingApplication.java
+    ├── controller
+    │   └── AccountController.java
+    ├── service
+    │   └── AccountService.java
+    ├── model
+    │   └── Account.java
+    └── repository
+        └── AccountRepository.java
